@@ -1,0 +1,206 @@
+
+/* 1199 */
+
+@media screen and (max-width: 1199.5px) {
+	.full-search .input-search{
+		width: 80%;
+		margin: 50% auto;
+	}
+	.full-search .input-search {
+		position: relative;
+	}
+	.full-search .input-search input{
+		font-size: 12px;
+		width: calc(100% - 0px);
+	}
+	.full-search .input-search button{
+		font-size: 16px;
+		width: 70px;
+		position: absolute;
+		top: 0;
+		right: 0;
+		border: 0;
+	}
+	.full-search .times-search{
+		top: 20px;
+		right: 20px;
+	}
+	.header-bottom .menu ul li{
+		width: 200px;
+	}
+	.sidebar-container .login-top .text-content-login{
+		padding: 50px 20px 30px 20px;
+	}
+	.header-top .logo-header img{
+		width: 300px;
+	}
+	.sidebar-container .login-top .text-content-login h3{
+		text-align: center;
+	}
+	.box1-list-nt img{
+		width: 100%;
+	}
+	.nt-container .list-nt-content .box1-list-nt .text-flex p{
+		padding-top: 10px;
+	}
+	.news-list-right .nums-news-list-right .text-right-news-right{
+		padding-right: 10px;
+	}
+	.nt-container .list-nt-content .box1-list-nt{
+		display: block;
+	}
+	.nt-container .list-nt-content .box1-list-nt .text-flex{
+		padding-left: 0;
+		padding-top: 10px;
+	}
+	.news-list-right .nums-news-list-right .img-left-news-right img{
+		width: 300px;
+	}
+	.content-ml .form-ml-top form .label-inout input , .content-ml .form-ml-top form .label-inout .select{
+		width: 65%;
+	}
+	.table-psd ul li a .text{
+		line-height: 20px;
+	}
+}
+
+/* 991 */
+
+@media screen and (max-width: 991.5px) {
+	.row-vt{
+		width: 100%;
+		display: flex;
+		flex-flow: row wrap;
+		margin: auto;
+	}
+	.col-vt{
+		order: 2;
+	}
+	.icon-mobile , .search-mobile , .menu-mobile{
+		display: block !important;
+	}
+	.header-bottom , .header-top .search-header , .header-top .menu-header-top{
+		display: none;
+	}
+	.header-top .logo-header{
+		text-align: center;
+	}
+	.header-top{
+		padding:10px 0px;
+	}
+	.header-top .logo-header img{
+		width: 250px;
+	}
+	.table-usd .table-responsive{
+		display: table;
+	}
+	.sidebar-container .ck-usd .table-usd .date-table form{
+		justify-content: center;
+	}
+	.sidebar-container .ck-usd .table-usd .date-table form input{
+		width: 150px;
+	}
+	.sidebar-container .ck-usd .table-usd .date-table form span{
+		padding-right:10px;
+	}
+	.sidebar-container .ck-usd .table-usd .date-table form .btn{
+		margin-left: 10px;
+	}
+	.footer-top .right-footer .list-user span{
+		padding-left: 7px;
+	}
+	.footer-top .right-footer .list-mxh h4{
+		font-size: 13px;
+	}
+	.main-content-agribank .box-right-container .news-hd .padding-right{
+		padding-right: 15px;
+	}
+	.main-content-agribank .box-right-container .news-hd .padding-left{
+		padding-left: 15px;
+	}
+	.pd-r{
+		padding-right: 15px;
+	}
+	.pd-l{
+		padding-left: 15px;
+	}
+	.main-hot .hot .title-hot{
+		width: 65%;
+	}
+	.news-list-right{
+		margin-bottom: 20px;
+	}
+	.nt-container .list-nt-content .box1-list-nt{
+		display: flex;
+	}
+	.nt-container .list-nt-content .box1-list-nt .text-flex{
+		padding-left: 15px;
+		padding-top: 0;
+	}
+	.box1-list-nt img{
+		width: 150px;
+	}
+	.content-ml .form-ml-top form .label-inout label{
+		padding-bottom: 10px;
+	}
+	.content-ml .form-ml-top form .label-inout input, .content-ml .form-ml-top form .label-inout .select{
+		width: 100%;
+	}
+	.content-ml .map-cn .cn-content .table-bordered{
+		display: table;
+	}
+	.content-ml .map-cn .maps-gg{
+		margin-top: 20px;
+	}
+	.sidebar-container{
+		margin-top: 20px;
+	}
+}
+
+/* 767 */
+
+@media screen and (max-width: 767.5px) {
+	.menu-content{
+		margin:10px 0px;
+	}
+	.title-main .title-hd:before{
+		display: none;
+	}
+	.title-main .title-hd{
+		display: block;
+	}
+	.header-top .logo-header img{
+		width: 170px;
+	}
+	.header-top{
+		padding:5px 0px;
+	}
+	.list-nt-content{
+		margin-top: 20px;
+	}
+	.news-list-right .nums-news-list-right{
+		display: block;
+	}
+	.news-list-right .nums-news-list-right .img-left-news-right img{
+		width: 100%;
+		height: auto;
+	}
+	.news-list-right .nums-news-list-right .text-right-news-right{
+		padding-left: 10px;
+	}
+	.list-number-next-tab{
+		text-align: center;
+	}
+	.list-number-next-tab ul li{
+		padding:5px 2px;
+	}
+	.title-details{
+		padding-top: 0;
+	}
+	.content-ml .form-ml-top form .checkbox-conent .btn{
+		margin-top: 10px;
+	}
+	.main-content-agribank .box-right-container .news-hd .text-flex{
+		margin-top: 10px;
+	}
+}
